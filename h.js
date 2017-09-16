@@ -16,4 +16,16 @@ function inSoChinhPhuong() {
     }
 }
 
+function inSo(fn) {
+    for(let i = 0; i <= 100; i++) {
+        if (fn(i)) console.log(i);
+    }
+}
+
+inSo(function(i) {
+    return i % 2 === 0;
+});
+
+
+
 // Math.sqrt()

@@ -1,5 +1,11 @@
 function doSth(fn) {
-    fn(1);//console.log(1)
+    for(let i = 0; i < 10; i++) {
+        fn(i);
+    }
 }
 
-doSth(console.log);
+const func = function(x) {
+    console.log(x);
+};
+
+doSth(func);
