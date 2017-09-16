@@ -1,3 +1,3 @@
 let a = 2;
 
-console.log(typeof a);
+console.log(typeof typeof a); // 'number' 
