@@ -4,8 +4,4 @@ https://www.facebook.com/groups/118827828824966/
 Online Khoa Pham:
 https://www.facebook.com/groups/khoaphamonline/
 
-react native - javascript. nodejs mongdb
-
-aaaa
-
-NODEJS.ORG
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
